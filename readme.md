@@ -1,6 +1,3 @@
-¡Perfecto! Vamos a agregar un **README.md** que explique cómo instalar las dependencias, ejecutar el proyecto y cómo está estructurado. Aquí tienes un ejemplo de cómo podría quedar:
-
----
 
 # FastAPI - Arquitectura Hexagonal
 
