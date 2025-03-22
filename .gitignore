@@ -1,0 +1,57 @@
+# Entorno virtual
+venv/
+.env/
+.venv/
+
+# Archivos de configuración local
+.env.local
+.env.*.local
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de caché de pip
+pip-wheel-metadata/
+
+# Archivos de base de datos SQLite
+*.db
+*.sqlite3
+
+# Archivos de logs y datos temporales
+*.log
+*.sql
+*.sqlite
+
+# Archivos de distribución y build
+dist/
+build/
+*.egg-info/
+
+# Archivos de cobertura
+.coverage
+htmlcov/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de caché de Pytest
+.pytest_cache/
+
+# Archivos de caché de mypy
+.mypy_cache/
+
+# Archivos de caché de Black
+.blackd
+
+# Archivos de caché de Ruff
+.ruff_cache/
